@@ -2,3 +2,4 @@ fake feat 1
 fake feat 2
 random 1
 doc 1
+doc 2: data
